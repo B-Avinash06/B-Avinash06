@@ -68,9 +68,10 @@ Hi! I'm <b>Avinash</b>, an Artificial Intelligence and Machine Learning student 
   <img src="https://skillicons.dev/icons?i=aws,postgres" />
 </p>
 
-<h3>⚙️ Developer Tools</h3>
+<h3>⚙️ Developer Tools & Environments</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -84,14 +85,6 @@ Hi! I'm <b>Avinash</b>, an Artificial Intelligence and Machine Learning student 
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=B-Avinash06&theme=default&hide_border=true"/>
-</p>
-
----
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B-Avinash06&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10"/>
 </p>
 
 ---
@@ -111,3 +104,4 @@ Hi! I'm <b>Avinash</b>, an Artificial Intelligence and Machine Learning student 
 </p>
 
 <h3 align="center">✨ Keep Learning | Keep Building | Keep Growing 🚀</h3>
+
